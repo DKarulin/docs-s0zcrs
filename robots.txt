@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-pvwxjk.assetshst.online/sitemap.xml
